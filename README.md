@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Assistroo at Actinide Limited.
+- 🔭 I’m currently working on [The Loot](https://theloot.app/)
 - 🌱 I’m currently learning BLoC.
 - 👯 I’m looking to collaborate on a Flutter project.
 - 💬 Ask me about Flutter and React.
