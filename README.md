@@ -11,7 +11,7 @@
 
 
 <a href="https://github.com/iampawan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=tokyonight&hide_langs_below=1" />
 </a>
 
-[![Kishan's github stats](https://github-readme-stats.vercel.app/api?username=kishanhitk)](https://github.com/kishanhitk/github-readme-stats)
+[![Kishan's github stats](https://github-readme-stats.vercel.app/api?username=kishanhitk&theme=tokyonight)](https://github.com/kishanhitk/github-readme-stats)
