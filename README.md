@@ -10,8 +10,8 @@
 - ⚡ Fun fact: This page contains an easter egg.
 
 
-<a href="https://github.com/kishanhitk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishanhitk&theme=tokyonight&hide_langs_below=1" />
-</a>
 
-[![Kishan's github stats](https://github-readme-stats.vercel.app/api?username=kishanhitk&theme=tokyonight)](https://github.com/kishanhitk/github-readme-stats)
+## &#x1f4c8; GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishanhitk&theme=algolia&hide_langs_below=1)](https://github.com/anuraghazra/github-readme-stats)
+![Kishan's github stats](https://github-readme-stats.vercel.app/api?username=kishanhitk&theme=algolia)
