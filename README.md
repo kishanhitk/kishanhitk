@@ -13,5 +13,5 @@
 
 ## &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishanhitk&theme=algolia&hide_langs_below=1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishanhitk&theme=algolia&&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 ![Kishan's github stats](https://github-readme-stats.vercel.app/api?username=kishanhitk&theme=algolia)
