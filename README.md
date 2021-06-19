@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-
-- 🔭 I’m currently working on ProjectHunt.
-- 🌱 I’m currently learning BLoC.
-- 👯 I’m looking to collaborate on a Flutter project.
+I'm Kishan.
+- 🏡 I live here - [kishans.in](https://www.kishans.in)
+- 🔭 I love writing about tech. Read my blogs at - [blog.kishans.in](https://blog.kishans.in)
 - 💬 Ask me about Flutter and React.
 - 📫 How to reach me: [Twitter](https://twitter.com/jst_kishan) | [Facebook](https://www.facebook.com/kishan1231) | [LinkedIn](https://www.linkedin.com/in/kishanju/) | [Mail](mailto:kishansharma1231@gmail.com)
 - 😄 Pronouns: He / Him
